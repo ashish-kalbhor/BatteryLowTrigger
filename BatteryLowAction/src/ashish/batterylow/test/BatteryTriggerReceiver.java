@@ -5,6 +5,13 @@ import android.content.Context;
 import android.content.Intent;
 import android.widget.Toast;
 
+/**
+ * A Broadcast Receiver class which will receive the intent fired
+ * by the battery trigger.
+ * 
+ * @author Ashish
+ *
+ */
 public class BatteryTriggerReceiver extends BroadcastReceiver
 {
 

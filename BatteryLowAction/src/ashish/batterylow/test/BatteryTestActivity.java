@@ -4,6 +4,12 @@ import android.app.Activity;
 import android.os.Bundle;
 import ashish.triggers.batterylowtrigger.BatteryLowTrigger;
 
+/**
+ * Test Activity which will show some action,
+ * whenever a Low Battery Trigger is raised.
+ * @author Ashish
+ *
+ */
 public class BatteryTestActivity extends Activity
 {
 
