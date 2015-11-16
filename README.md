@@ -4,3 +4,6 @@ An android library that developers can use in their application design to trigge
 The Battery-Low Trigger should be set whenever the device battery charge falls below the given threshold.
 
 This will primarily be an Android Service Running in background.
+
+==========================================================================================
+Need to add BroadCastReceiver.
